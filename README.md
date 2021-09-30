@@ -10,6 +10,7 @@ Using ML.NET I created a model to classify numbers on images. I used a smaller d
 ###### Tested the model using testing set given by dataset:
 ![Testing Model](/images/testdata4.PNG)
 ![Testing Model](/images/testdata7.PNG)
+
 The accuracy is very high.
 
 ###### Tested the model using my own testing set:
@@ -24,3 +25,5 @@ The accuracy varies but even when it guesses correctly, the accuracy is lower th
 ![Testing Model](/images/test1_small.PNG)
 ![Testing Model](/images/test2_small.PNG)
 ![Testing Model](/images/test5_small.PNG)
+
+The accuracy is quite low.
